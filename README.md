@@ -1,2 +1,3 @@
-# fox-app
-fox-app
+执行
+
+$electron .
